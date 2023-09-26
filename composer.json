@@ -1,0 +1,14 @@
+{
+    "name": "f104s/anythingphp123",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework"
+        }
+    },
+    "authors": [
+        {
+            "name": "f104s"
+        }
+    ],
+    "require": {}
+}
